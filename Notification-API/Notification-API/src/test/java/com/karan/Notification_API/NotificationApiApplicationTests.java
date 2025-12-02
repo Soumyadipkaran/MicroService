@@ -1,0 +1,13 @@
+package com.karan.Notification_API;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NotificationApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
