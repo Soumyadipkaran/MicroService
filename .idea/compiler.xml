@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Admin-Server" />
         <module name="Product-Server" />
+        <module name="API_GATEWAY" />
         <module name="Service-Registry" />
         <module name="Notification-API" />
       </profile>
@@ -15,6 +16,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="API_GATEWAY" options="-parameters" />
       <module name="Admin-Server" options="-parameters" />
       <module name="Notification-API" options="-parameters" />
       <module name="Product-Server" options="-parameters" />

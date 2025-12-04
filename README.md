@@ -56,3 +56,7 @@ public String getProName(@PathVariable String name){
 ## Load Balancer 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9c69eb66-8820-4337-9940-3d574b88642c" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/63436d1e-8f52-4449-a2a2-e36583524eb7" />
+
+
+## API GATEWAY
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f089777d-f18b-4df3-9cc7-1ebce5d0a93f" />
